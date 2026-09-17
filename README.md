@@ -21,13 +21,8 @@
 
 - 📍 Pelotas, Rio Grande do Sul, Brasil
 - 🎓 Análise e Desenvolvimento de Sistemas — UniSenac Pelotas
-- 💻 Foco em Programação Orientada a Objetos, Bancos de Dados e Modelagem UML
-- 🌐 Interesse em Desenvolvimento Front-end (React, Vite, Tailwind CSS)
-- 🚀 Sempre evoluindo em TypeScript, POO e boas práticas de código
 
-Estou construindo minha trajetória na área de desenvolvimento, unindo os estudos da faculdade com projetos práticos — de aplicativos com React a sistemas em Python usando estruturas de dados. Gosto de aprender colocando a mão no código, testando, quebrando e refazendo até entender de verdade.
-
-Estou construindo minha trajetória na área de desenvolvimento, unindo os estudos da faculdade com projetos práticos — de aplicativos com React a sistemas em Python usando estruturas de dados. Gosto de aprender colocando a mão no código, testando, quebrando e refazendo até entender de verdade.
+Estou construindo minha trajetória na área de desenvolvimento, unindo os estudos da faculdade com projetos práticos —  Gosto de aprender colocando a mão no código, testando, quebrando e refazendo até entender de verdade.
 
 <br/>
 
