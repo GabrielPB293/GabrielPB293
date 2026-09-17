@@ -35,7 +35,7 @@ Estou construindo minha trajetória na área de desenvolvimento, unindo os estud
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpb293&layout=compact&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" alt="Top Langs"/>
+  <img src="https://github-readme-stats-sandy-seven-40.vercel.app/api/top-langs/?username=GabrielPB293&layout=compact&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" alt="Top Langs"/>
 </div>
 
 <br/>
@@ -72,11 +72,11 @@ Estou construindo minha trajetória na área de desenvolvimento, unindo os estud
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielbonow&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" />
+  <img src="https://github-readme-stats-sandy-seven-40.vercel.app/api?username=GabrielPB293&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbonow&theme=radical&hide_border=true&background=0D0221&stroke=9D4EDD&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielPB293&theme=radical&hide_border=true&background=0D0221&stroke=9D4EDD&ring=C77DFF&fire=C77DFF&currStreakLabel=E0AAFF" />
 </div>
 
 <br/>
