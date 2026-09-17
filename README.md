@@ -35,7 +35,7 @@ Estou construindo minha trajetória na área de desenvolvimento, unindo os estud
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbonow&layout=compact&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpb293&layout=compact&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" alt="Top Langs"/>
 </div>
 
 <br/>
