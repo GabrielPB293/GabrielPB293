@@ -72,7 +72,7 @@ Estou construindo minha trajetória na área de desenvolvimento, unindo os estud
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sandy-seven-40.vercel.app/api?username=GabrielPB293&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" />
+  <img src="https://github-readme-stats-sandy-seven-40.vercel.app/api?username=GabrielPB293&show_icons=true&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" />
 </div>
 
 <div align="center">
