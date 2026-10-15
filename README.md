@@ -42,23 +42,6 @@ Estou construindo minha trajetória na área de desenvolvimento, unindo os estud
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielbonow&repo=appbarber&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielbonow&repo=projeto-poo&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" />
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielbonow&repo=tetris-matrizes&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielbonow&repo=controle-acesso-qrcode&theme=radical&hide_border=true&bg_color=0d0221&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd" />
-</a>
-
-</div>
 
 | Projeto | Descrição | Stack |
 |---|---|---|
